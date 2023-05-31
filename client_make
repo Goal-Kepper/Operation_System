@@ -1,0 +1,4 @@
+all:
+	gcc client.c  msglib/msglib.c -o client.exe
+clean:
+	rm client.exe

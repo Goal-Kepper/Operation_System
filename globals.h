@@ -1,0 +1,9 @@
+# ifndef GLOBALS_H_
+# define GLOBALS_H_
+int AUTH_ANSWER_CHANNEL = 1;
+int SEND_MSG_TO_CLIENT_CHANNEL = 2;
+int AUTH_CHANNEL = 3;
+int CHANNELS_OFFSET = 4;
+# endif
+
+

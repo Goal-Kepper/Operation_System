@@ -1,0 +1,4 @@
+all:
+	gcc server.c  msglib/msglib.c -o server.exe
+clean:
+	rm server.exe
